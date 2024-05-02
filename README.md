@@ -1,5 +1,2 @@
 ## Live link
-http://localhost:3000/transactions
-
-
-https://my-json-server.typicode.com/mikewainaina/BankOfFlatiron-22/transactions"
+https://bank-of-flatiron-22.vercel.app/
